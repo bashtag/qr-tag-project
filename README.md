@@ -136,9 +136,8 @@ For more information, including a demonstration video, our website, the final pr
 
 ## 🤝Collaborators
 [@aliasimcoskun](https://github.com/aliasimcoskun): 
-- Owner of the project idea.
-- Mobile Application by using Kotlin (.xml files for frontend).
-- Contribution to Game Logic (C++).
+- Owner of the project idea. (Just QR Tag part. Not the 3d or other location features)
+- Front-End redesign part of Mobile Application by using Kotlin (only .xml files for frontend).
 - Editing project video.
 - Creating all required reports of the project.
 - Creating simple website for demo.
