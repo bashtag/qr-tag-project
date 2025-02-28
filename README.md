@@ -135,14 +135,24 @@ For more information, including a demonstration video, our website, the final pr
 - [Project Files (Final Report and User Manual)](https://drive.google.com/drive/folders/17KQuRK2ZjIPfvACE4FMA6-GAQMbPVH46?usp=sharing)  
 
 ## 🤝Collaborators
+[@bashtag](https://github.com/bashtag):
+- Led the 3D reconstruction component development using Unreal Engine C++.  
+- Implemented Native C++ components for Android and designed UI using Kotlin and XML.
+- Socket communication between components.
+- Contributed and debugged the Qt server app and the ESP module.
+
+[@ardac67](https://github.com/ardac67):
+- Led the Qt Server module
+- Led the ESP module
+- Socket communication between components.
+- Gathering necessary components
+
 [@aliasimcoskun](https://github.com/aliasimcoskun): 
-- Owner of the project idea. (Just QR Tag part. Not the 3d or other location features)
+- Owner of the QR Tag idea. (Just QR Tag part. Not the 3d or other location features. These Ideas belong to our professor Prof. Dr. Erkan ZERGEROĞLU)
 - Front-End redesign part of Mobile Application by using Kotlin (only .xml files for frontend).
 - Editing project video.
 - Creating all required reports of the project.
 - Creating simple website for demo.
 
-[@bashtag](https://github.com/bashtag):
-- Led the 3D reconstruction component development using Unreal Engine C++.  
-- Implemented Native C++ components for Android and contributed to UI using Kotlin.  
-- Debugged the Qt server app. 
+[@alperenduran]:
+- Breadboard Design for ESP module
