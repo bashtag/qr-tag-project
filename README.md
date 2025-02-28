@@ -138,21 +138,21 @@ For more information, including a demonstration video, our website, the final pr
 [@bashtag](https://github.com/bashtag):
 - Led the 3D reconstruction component development using Unreal Engine C++.  
 - Implemented Native C++ components for Android and designed UI using Kotlin and XML.
-- Socket communication between components.
+- Established  socket communication between components.
 - Contributed and debugged the Qt server app and the ESP module.
 
 [@ardac67](https://github.com/ardac67):
-- Led the Qt Server module
+- Led the development of the Qt Server module
 - Led the ESP module
-- Socket communication between components.
-- Gathering necessary components
+- Established socket communication between components.
+- Procured necessary hardware components
 
 [@aliasimcoskun](https://github.com/aliasimcoskun): 
-- Owner of the QR Tag idea. (Just QR Tag part. Not the 3d or other location features. These Ideas belong to our professor Prof. Dr. Erkan ZERGEROĞLU)
-- Front-End redesign part of Mobile Application by using Kotlin (only .xml files for frontend).
-- Editing project video.
-- Creating all required reports of the project.
+- Originated the QR Tag idea (limited to QR Tag functionality; 3D and other location-related features were conceptualized by Prof. Dr. Erkan Zergeroğlu).
+- Redesigned the front-end of the mobile application using Kotlin (limited to XML files for the UI).
+- Edited project video.
+- Authored all required project reports.
 - Creating simple website for demo.
 
-[@alperenduran]:
-- Breadboard Design for ESP module
+@alperenduran:
+- Designed the breadboard for the ESP module.
