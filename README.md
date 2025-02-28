@@ -139,7 +139,7 @@ For more information, including a demonstration video, our website, the final pr
 - Led the 3D reconstruction component development using Unreal Engine C++.  
 - Implemented Native C++ components for Android and designed UI using Kotlin and XML.
 - Established  socket communication between components.
-- Contributed and debugged the Qt server app and the ESP module.
+- Contributed to and debugged the Qt server application and the ESP module.
 
 [@ardac67](https://github.com/ardac67):
 - Led the development of the Qt Server module
